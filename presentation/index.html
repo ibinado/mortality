@@ -47,8 +47,25 @@
   </hgroup>
   <article data-timings="">
     <ul>
-<li>What is it?</li>
-<li>Why would anybody want it?</li>
+<li>What is it?
+
+<ul>
+<li>A predictor of mortality rate of US population based on demographics and age.</li>
+</ul></li>
+<li>Why should I care?
+
+<ul>
+<li>You can check the probability that someone in your population
+subgroup will die within the selected time period.</li>
+<li>Some of the questions you might help answer are:
+
+<ul>
+<li>How much money should you put in your nest egg?</li>
+<li>Is that life insurance a good deal for you?</li>
+<li>Should you retire now with a smaller pension, or wait to be
+fully vested?</li>
+</ul></li>
+</ul></li>
 </ul>
 
   </article>
@@ -76,9 +93,15 @@
     <h2>Prediction Algorithm</h2>
   </hgroup>
   <article data-timings="">
-    <p>From the yearly mortality rate data we predict the mortality rate over the precition time range with the following formula:</p>
+    <p>From the yearly mortality rate data we predict the mortality rate over the prediction time range with the following formula:</p>
 
-<p>\[overall\_mortality\_rate = 1 - \displaystyle\prod_{age=start}^{end} (1 - morality\_rate_{age})\]</p>
+<p>\[overall\_mortality\_rate = 1 - \displaystyle\prod_{age=start}^{end} (1 - mortality\_rate_{age})\]</p>
+
+<ul>
+<li>CDC data only covers mortality rates until 85 years of age</li>
+<li>predictor reuses the 85-year mortality rate for greater ages</li>
+<li>leads to underestimation of mortality rate for older ages</li>
+</ul>
 
   </article>
   <!-- Presenter Notes -->
@@ -94,7 +117,7 @@
 <ul>
 <li>Select your demographic and prediction time range.</li>
 <li>Get a result instantly.</li>
-<li>Enyoj still being alive.</li>
+<li>Enjoy your life!</li>
 </ul>
 
 <p><a href="https://ibinado.shinyapps.io/mortality">Try it out now</a></p>

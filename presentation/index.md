@@ -14,7 +14,15 @@ knit        : slidify::knit2slides
 ## Mortality Rate Predictor
 
 * What is it?
-* Why would anybody want it?
+  * A predictor of mortality rate of US population based on demographics and age.
+* Why should I care?
+  * You can check the probability that someone in your population
+    subgroup will die within the selected time period.
+  * Some of the questions you might help answer are:
+      * How much money should you put in your nest egg?
+      * Is that life insurance a good deal for you?
+      * Should you retire now with a smaller pension, or wait to be
+        fully vested?
 
 --- 
 
@@ -31,9 +39,13 @@ The graph below shows the overall yearly mortality rate by age across all popula
 
 ## Prediction Algorithm
 
-From the yearly mortality rate data we predict the mortality rate over the precition time range with the following formula:
+From the yearly mortality rate data we predict the mortality rate over the prediction time range with the following formula:
 
-$$overall\_mortality\_rate = 1 - \displaystyle\prod_{age=start}^{end} (1 - morality\_rate_{age})$$
+$$overall\_mortality\_rate = 1 - \displaystyle\prod_{age=start}^{end} (1 - mortality\_rate_{age})$$
+
+* CDC data only covers mortality rates until 85 years of age
+* predictor reuses the 85-year mortality rate for greater ages
+* leads to underestimation of mortality rate for older ages
 
 ---
 
@@ -42,6 +54,6 @@ $$overall\_mortality\_rate = 1 - \displaystyle\prod_{age=start}^{end} (1 - moral
 It's easy.
 * Select your demographic and prediction time range.
 * Get a result instantly.
-* Enyoj still being alive.
+* Enjoy your life!
 
 [Try it out now](https://ibinado.shinyapps.io/mortality)
