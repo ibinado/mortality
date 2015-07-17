@@ -1,0 +1,873 @@
+"Notes"	"Single-Year Ages"	"Single-Year Ages Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"0"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	118	38574	305.9
+	"< 1 year"	"0"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	381	115688	329.3
+	"< 1 year"	"0"	"Female"	"F"	"Black or African American"	"2054-5"	3245	330884	980.7
+	"< 1 year"	"0"	"Female"	"F"	"White"	"2106-3"	6577	1439910	456.8
+	"< 1 year"	"0"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	197	39928	493.4
+	"< 1 year"	"0"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	496	121308	408.9
+	"< 1 year"	"0"	"Male"	"M"	"Black or African American"	"2054-5"	3878	346221	1120.1
+	"< 1 year"	"0"	"Male"	"M"	"White"	"2106-3"	8548	1509270	566.4
+	"1 year"	"1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	20	38522	51.9
+	"1 year"	"1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	30	118851	25.2
+	"1 year"	"1"	"Female"	"F"	"Black or African American"	"2054-5"	184	333633	55.2
+	"1 year"	"1"	"Female"	"F"	"White"	"2106-3"	494	1442923	34.2
+	"1 year"	"1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	29	39751	73.0
+	"1 year"	"1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	51	124037	41.1
+	"1 year"	"1"	"Male"	"M"	"Black or African American"	"2054-5"	234	346879	67.5
+	"1 year"	"1"	"Male"	"M"	"White"	"2106-3"	615	1511346	40.7
+	"2 years"	"2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	10	37785	Unreliable
+	"2 years"	"2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	24	120671	19.9
+	"2 years"	"2"	"Female"	"F"	"Black or African American"	"2054-5"	105	332784	31.6
+	"2 years"	"2"	"Female"	"F"	"White"	"2106-3"	287	1457440	19.7
+	"2 years"	"2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	19	38826	Unreliable
+	"2 years"	"2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16	125522	Unreliable
+	"2 years"	"2"	"Male"	"M"	"Black or African American"	"2054-5"	141	345720	40.8
+	"2 years"	"2"	"Male"	"M"	"White"	"2106-3"	413	1530387	27.0
+	"3 years"	"3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	5	38425	Unreliable
+	"3 years"	"3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17	120680	Unreliable
+	"3 years"	"3"	"Female"	"F"	"Black or African American"	"2054-5"	79	331951	23.8
+	"3 years"	"3"	"Female"	"F"	"White"	"2106-3"	219	1462064	15.0
+	"3 years"	"3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	39139	Unreliable
+	"3 years"	"3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	13	124852	Unreliable
+	"3 years"	"3"	"Male"	"M"	"Black or African American"	"2054-5"	98	343573	28.5
+	"3 years"	"3"	"Male"	"M"	"White"	"2106-3"	309	1528854	20.2
+	"4 years"	"4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	4	37962	Unreliable
+	"4 years"	"4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17	119005	Unreliable
+	"4 years"	"4"	"Female"	"F"	"Black or African American"	"2054-5"	77	334416	23.0
+	"4 years"	"4"	"Female"	"F"	"White"	"2106-3"	173	1463502	11.8
+	"4 years"	"4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	6	38933	Unreliable
+	"4 years"	"4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16	122667	Unreliable
+	"4 years"	"4"	"Male"	"M"	"Black or African American"	"2054-5"	88	344977	25.5
+	"4 years"	"4"	"Male"	"M"	"White"	"2106-3"	264	1530228	17.3
+	"5 years"	"5"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	8	39109	Unreliable
+	"5 years"	"5"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	13	123291	Unreliable
+	"5 years"	"5"	"Female"	"F"	"Black or African American"	"2054-5"	67	344919	19.4
+	"5 years"	"5"	"Female"	"F"	"White"	"2106-3"	162	1510241	10.7
+	"5 years"	"5"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	7	40260	Unreliable
+	"5 years"	"5"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16	127545	Unreliable
+	"5 years"	"5"	"Male"	"M"	"Black or African American"	"2054-5"	75	355210	21.1
+	"5 years"	"5"	"Male"	"M"	"White"	"2106-3"	217	1581222	13.7
+	"6 years"	"6"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	2	39292	Unreliable
+	"6 years"	"6"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	15	121440	Unreliable
+	"6 years"	"6"	"Female"	"F"	"Black or African American"	"2054-5"	54	341993	15.8
+	"6 years"	"6"	"Female"	"F"	"White"	"2106-3"	155	1522585	10.2
+	"6 years"	"6"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	6	40636	Unreliable
+	"6 years"	"6"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	13	126219	Unreliable
+	"6 years"	"6"	"Male"	"M"	"Black or African American"	"2054-5"	52	355009	14.6
+	"6 years"	"6"	"Male"	"M"	"White"	"2106-3"	204	1595017	12.8
+	"7 years"	"7"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	2	38500	Unreliable
+	"7 years"	"7"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	9	120990	Unreliable
+	"7 years"	"7"	"Female"	"F"	"Black or African American"	"2054-5"	49	333852	14.7
+	"7 years"	"7"	"Female"	"F"	"White"	"2106-3"	130	1514591	8.6
+	"7 years"	"7"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	1	39815	Unreliable
+	"7 years"	"7"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	13	124790	Unreliable
+	"7 years"	"7"	"Male"	"M"	"Black or African American"	"2054-5"	69	344211	20.0
+	"7 years"	"7"	"Male"	"M"	"White"	"2106-3"	169	1591304	10.6
+	"8 years"	"8"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	6	38504	Unreliable
+	"8 years"	"8"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	6	123605	Unreliable
+	"8 years"	"8"	"Female"	"F"	"Black or African American"	"2054-5"	43	327058	13.1
+	"8 years"	"8"	"Female"	"F"	"White"	"2106-3"	140	1513583	9.2
+	"8 years"	"8"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	10	39320	Unreliable
+	"8 years"	"8"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	14	125391	Unreliable
+	"8 years"	"8"	"Male"	"M"	"Black or African American"	"2054-5"	52	338909	15.3
+	"8 years"	"8"	"Male"	"M"	"White"	"2106-3"	184	1588835	11.6
+	"9 years"	"9"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	6	37485	Unreliable
+	"9 years"	"9"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	8	123652	Unreliable
+	"9 years"	"9"	"Female"	"F"	"Black or African American"	"2054-5"	48	323911	14.8
+	"9 years"	"9"	"Female"	"F"	"White"	"2106-3"	121	1523006	7.9
+	"9 years"	"9"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	2	38238	Unreliable
+	"9 years"	"9"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	13	124809	Unreliable
+	"9 years"	"9"	"Male"	"M"	"Black or African American"	"2054-5"	73	335081	21.8
+	"9 years"	"9"	"Male"	"M"	"White"	"2106-3"	193	1597153	12.1
+	"10 years"	"10"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	1	36820	Unreliable
+	"10 years"	"10"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	6	122521	Unreliable
+	"10 years"	"10"	"Female"	"F"	"Black or African American"	"2054-5"	43	321066	13.4
+	"10 years"	"10"	"Female"	"F"	"White"	"2106-3"	144	1513878	9.5
+	"10 years"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	2	37866	Unreliable
+	"10 years"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16	123297	Unreliable
+	"10 years"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	33	331534	10.0
+	"10 years"	"10"	"Male"	"M"	"White"	"2106-3"	181	1586276	11.4
+	"11 years"	"11"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	2	36622	Unreliable
+	"11 years"	"11"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	11	116901	Unreliable
+	"11 years"	"11"	"Female"	"F"	"Black or African American"	"2054-5"	46	325459	14.1
+	"11 years"	"11"	"Female"	"F"	"White"	"2106-3"	139	1506622	9.2
+	"11 years"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	5	37654	Unreliable
+	"11 years"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	12	117856	Unreliable
+	"11 years"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	62	335533	18.5
+	"11 years"	"11"	"Male"	"M"	"White"	"2106-3"	180	1579271	11.4
+	"12 years"	"12"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	2	36968	Unreliable
+	"12 years"	"12"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	12	119820	Unreliable
+	"12 years"	"12"	"Female"	"F"	"Black or African American"	"2054-5"	42	335246	12.5
+	"12 years"	"12"	"Female"	"F"	"White"	"2106-3"	176	1540856	11.4
+	"12 years"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	3	37892	Unreliable
+	"12 years"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	11	121767	Unreliable
+	"12 years"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	80	346998	23.1
+	"12 years"	"12"	"Male"	"M"	"White"	"2106-3"	230	1616328	14.2
+	"13 years"	"13"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	10	37587	Unreliable
+	"13 years"	"13"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	14	117525	Unreliable
+	"13 years"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	54	343811	15.7
+	"13 years"	"13"	"Female"	"F"	"White"	"2106-3"	215	1560552	13.8
+	"13 years"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	5	38973	Unreliable
+	"13 years"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	11	119513	Unreliable
+	"13 years"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	68	356549	19.1
+	"13 years"	"13"	"Male"	"M"	"White"	"2106-3"	297	1643454	18.1
+	"14 years"	"14"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	2	36814	Unreliable
+	"14 years"	"14"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	12	112271	Unreliable
+	"14 years"	"14"	"Female"	"F"	"Black or African American"	"2054-5"	48	335340	14.3
+	"14 years"	"14"	"Female"	"F"	"White"	"2106-3"	240	1541252	15.6
+	"14 years"	"14"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	6	37672	Unreliable
+	"14 years"	"14"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	17	115093	Unreliable
+	"14 years"	"14"	"Male"	"M"	"Black or African American"	"2054-5"	111	347634	31.9
+	"14 years"	"14"	"Male"	"M"	"White"	"2106-3"	364	1621363	22.5
+	"15 years"	"15"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	5	36741	Unreliable
+	"15 years"	"15"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	13	113732	Unreliable
+	"15 years"	"15"	"Female"	"F"	"Black or African American"	"2054-5"	62	336461	18.4
+	"15 years"	"15"	"Female"	"F"	"White"	"2106-3"	268	1538588	17.4
+	"15 years"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	15	37658	Unreliable
+	"15 years"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	17	116109	Unreliable
+	"15 years"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	162	348730	46.5
+	"15 years"	"15"	"Male"	"M"	"White"	"2106-3"	504	1619426	31.1
+	"16 years"	"16"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	7	36393	Unreliable
+	"16 years"	"16"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	18	114939	Unreliable
+	"16 years"	"16"	"Female"	"F"	"Black or African American"	"2054-5"	80	335936	23.8
+	"16 years"	"16"	"Female"	"F"	"White"	"2106-3"	317	1544925	20.5
+	"16 years"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	22	37532	58.6
+	"16 years"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	21	117443	17.9
+	"16 years"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	226	346985	65.1
+	"16 years"	"16"	"Male"	"M"	"White"	"2106-3"	662	1623963	40.8
+	"17 years"	"17"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	11	36085	Unreliable
+	"17 years"	"17"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	20	116386	17.2
+	"17 years"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	86	336347	25.6
+	"17 years"	"17"	"Female"	"F"	"White"	"2106-3"	422	1554122	27.2
+	"17 years"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	22	37726	58.3
+	"17 years"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	37	119700	30.9
+	"17 years"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	342	346989	98.6
+	"17 years"	"17"	"Male"	"M"	"White"	"2106-3"	900	1643833	54.8
+	"18 years"	"18"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	13	36840	Unreliable
+	"18 years"	"18"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	20	117087	17.1
+	"18 years"	"18"	"Female"	"F"	"Black or African American"	"2054-5"	123	351492	35.0
+	"18 years"	"18"	"Female"	"F"	"White"	"2106-3"	499	1579487	31.6
+	"18 years"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	37	38503	96.1
+	"18 years"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	42	121153	34.7
+	"18 years"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	428	364734	117.3
+	"18 years"	"18"	"Male"	"M"	"White"	"2106-3"	1222	1676313	72.9
+	"19 years"	"19"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	16	37842	Unreliable
+	"19 years"	"19"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	18	119605	Unreliable
+	"19 years"	"19"	"Female"	"F"	"Black or African American"	"2054-5"	144	367445	39.2
+	"19 years"	"19"	"Female"	"F"	"White"	"2106-3"	579	1602321	36.1
+	"19 years"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	32	39333	81.4
+	"19 years"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	62	124955	49.6
+	"19 years"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	527	380699	138.4
+	"19 years"	"19"	"Male"	"M"	"White"	"2106-3"	1479	1704406	86.8
+	"20 years"	"20"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	15	38502	Unreliable
+	"20 years"	"20"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	23	122410	18.8
+	"20 years"	"20"	"Female"	"F"	"Black or African American"	"2054-5"	163	375498	43.4
+	"20 years"	"20"	"Female"	"F"	"White"	"2106-3"	660	1619704	40.7
+	"20 years"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	45	40615	110.8
+	"20 years"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	70	127729	54.8
+	"20 years"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	632	392113	161.2
+	"20 years"	"20"	"Male"	"M"	"White"	"2106-3"	1664	1729150	96.2
+	"21 years"	"21"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	22	39328	55.9
+	"21 years"	"21"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	12	130228	Unreliable
+	"21 years"	"21"	"Female"	"F"	"Black or African American"	"2054-5"	162	385168	42.1
+	"21 years"	"21"	"Female"	"F"	"White"	"2106-3"	698	1666061	41.9
+	"21 years"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	54	42185	128.0
+	"21 years"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	66	135626	48.7
+	"21 years"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	658	397379	165.6
+	"21 years"	"21"	"Male"	"M"	"White"	"2106-3"	2009	1772688	113.3
+	"22 years"	"22"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	23	38753	59.4
+	"22 years"	"22"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	29	141973	20.4
+	"22 years"	"22"	"Female"	"F"	"Black or African American"	"2054-5"	211	391909	53.8
+	"22 years"	"22"	"Female"	"F"	"White"	"2106-3"	713	1701541	41.9
+	"22 years"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	57	41992	135.7
+	"22 years"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	78	147101	53.0
+	"22 years"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	728	397100	183.3
+	"22 years"	"22"	"Male"	"M"	"White"	"2106-3"	2070	1795362	115.3
+	"23 years"	"23"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	24	37715	63.6
+	"23 years"	"23"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	29	149018	19.5
+	"23 years"	"23"	"Female"	"F"	"Black or African American"	"2054-5"	230	386892	59.4
+	"23 years"	"23"	"Female"	"F"	"White"	"2106-3"	784	1702774	46.0
+	"23 years"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	56	41119	136.2
+	"23 years"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	83	152691	54.4
+	"23 years"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	619	386884	160.0
+	"23 years"	"23"	"Male"	"M"	"White"	"2106-3"	2267	1795713	126.2
+	"24 years"	"24"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	24	35504	67.6
+	"24 years"	"24"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	45	153736	29.3
+	"24 years"	"24"	"Female"	"F"	"Black or African American"	"2054-5"	236	363133	65.0
+	"24 years"	"24"	"Female"	"F"	"White"	"2106-3"	798	1636626	48.8
+	"24 years"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	48	39185	122.5
+	"24 years"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	79	153613	51.4
+	"24 years"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	719	358782	200.4
+	"24 years"	"24"	"Male"	"M"	"White"	"2106-3"	2103	1731938	121.4
+	"25 years"	"25"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	19	34551	Unreliable
+	"25 years"	"25"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	32	153312	20.9
+	"25 years"	"25"	"Female"	"F"	"Black or African American"	"2054-5"	235	341566	68.8
+	"25 years"	"25"	"Female"	"F"	"White"	"2106-3"	764	1613679	47.3
+	"25 years"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	49	38305	127.9
+	"25 years"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	83	151053	54.9
+	"25 years"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	608	334455	181.8
+	"25 years"	"25"	"Male"	"M"	"White"	"2106-3"	2173	1705280	127.4
+	"26 years"	"26"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	23	33563	68.5
+	"26 years"	"26"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	34	153603	22.1
+	"26 years"	"26"	"Female"	"F"	"Black or African American"	"2054-5"	244	329520	74.0
+	"26 years"	"26"	"Female"	"F"	"White"	"2106-3"	869	1593315	54.5
+	"26 years"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	63	37140	169.6
+	"26 years"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	76	148523	51.2
+	"26 years"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	651	318690	204.3
+	"26 years"	"26"	"Male"	"M"	"White"	"2106-3"	2196	1686166	130.2
+	"27 years"	"27"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	41	33476	122.5
+	"27 years"	"27"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	35	157199	22.3
+	"27 years"	"27"	"Female"	"F"	"Black or African American"	"2054-5"	249	325082	76.6
+	"27 years"	"27"	"Female"	"F"	"White"	"2106-3"	909	1608214	56.5
+	"27 years"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	63	36893	170.8
+	"27 years"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	74	150797	49.1
+	"27 years"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	680	310951	218.7
+	"27 years"	"27"	"Male"	"M"	"White"	"2106-3"	2239	1699635	131.7
+	"28 years"	"28"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	31	33447	92.7
+	"28 years"	"28"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	30	163543	18.3
+	"28 years"	"28"	"Female"	"F"	"Black or African American"	"2054-5"	268	324756	82.5
+	"28 years"	"28"	"Female"	"F"	"White"	"2106-3"	950	1628655	58.3
+	"28 years"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	80	36313	220.3
+	"28 years"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	77	153173	50.3
+	"28 years"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	630	307689	204.8
+	"28 years"	"28"	"Male"	"M"	"White"	"2106-3"	2227	1712669	130.0
+	"29 years"	"29"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	29	32699	88.7
+	"29 years"	"29"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	37	164326	22.5
+	"29 years"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	260	312374	83.2
+	"29 years"	"29"	"Female"	"F"	"White"	"2106-3"	974	1583439	61.5
+	"29 years"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	50	35256	141.8
+	"29 years"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	96	152468	63.0
+	"29 years"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	642	291516	220.2
+	"29 years"	"29"	"Male"	"M"	"White"	"2106-3"	2266	1652907	137.1
+	"30 years"	"30"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	26	33327	78.0
+	"30 years"	"30"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	46	168497	27.3
+	"30 years"	"30"	"Female"	"F"	"Black or African American"	"2054-5"	272	317521	85.7
+	"30 years"	"30"	"Female"	"F"	"White"	"2106-3"	1060	1613070	65.7
+	"30 years"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	61	35737	170.7
+	"30 years"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	74	153027	48.4
+	"30 years"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	660	293923	224.5
+	"30 years"	"30"	"Male"	"M"	"White"	"2106-3"	2408	1679729	143.4
+	"31 years"	"31"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	49	32597	150.3
+	"31 years"	"31"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	49	170370	28.8
+	"31 years"	"31"	"Female"	"F"	"Black or African American"	"2054-5"	301	318702	94.4
+	"31 years"	"31"	"Female"	"F"	"White"	"2106-3"	1103	1617034	68.2
+	"31 years"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	64	35022	182.7
+	"31 years"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	79	152964	51.6
+	"31 years"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	658	291923	225.4
+	"31 years"	"31"	"Male"	"M"	"White"	"2106-3"	2420	1678718	144.2
+	"32 years"	"32"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	29	32461	89.3
+	"32 years"	"32"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	47	166031	28.3
+	"32 years"	"32"	"Female"	"F"	"Black or African American"	"2054-5"	351	317106	110.7
+	"32 years"	"32"	"Female"	"F"	"White"	"2106-3"	1187	1605367	73.9
+	"32 years"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	58	34049	170.3
+	"32 years"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	70	147066	47.6
+	"32 years"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	666	288713	230.7
+	"32 years"	"32"	"Male"	"M"	"White"	"2106-3"	2414	1663538	145.1
+	"33 years"	"33"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	28	32813	85.3
+	"33 years"	"33"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	51	169694	30.1
+	"33 years"	"33"	"Female"	"F"	"Black or African American"	"2054-5"	370	328931	112.5
+	"33 years"	"33"	"Female"	"F"	"White"	"2106-3"	1215	1625482	74.7
+	"33 years"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	68	35113	193.7
+	"33 years"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	99	151088	65.5
+	"33 years"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	714	301920	236.5
+	"33 years"	"33"	"Male"	"M"	"White"	"2106-3"	2519	1697697	148.4
+	"34 years"	"34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	33	30345	108.7
+	"34 years"	"34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	57	161856	35.2
+	"34 years"	"34"	"Female"	"F"	"Black or African American"	"2054-5"	383	308573	124.1
+	"34 years"	"34"	"Female"	"F"	"White"	"2106-3"	1311	1533000	85.5
+	"34 years"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	59	32341	182.4
+	"34 years"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	86	142874	60.2
+	"34 years"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	689	278996	247.0
+	"34 years"	"34"	"Male"	"M"	"White"	"2106-3"	2573	1587174	162.1
+	"35 years"	"35"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	38	30133	126.1
+	"35 years"	"35"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	61	157691	38.7
+	"35 years"	"35"	"Female"	"F"	"Black or African American"	"2054-5"	407	297739	136.7
+	"35 years"	"35"	"Female"	"F"	"White"	"2106-3"	1392	1511443	92.1
+	"35 years"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	58	31439	184.5
+	"35 years"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	73	139155	52.5
+	"35 years"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	716	268759	266.4
+	"35 years"	"35"	"Male"	"M"	"White"	"2106-3"	2516	1560364	161.2
+	"36 years"	"36"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	40	29695	134.7
+	"36 years"	"36"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	49	158253	31.0
+	"36 years"	"36"	"Female"	"F"	"Black or African American"	"2054-5"	412	295207	139.6
+	"36 years"	"36"	"Female"	"F"	"White"	"2106-3"	1392	1500048	92.8
+	"36 years"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	56	31389	178.4
+	"36 years"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	82	139066	59.0
+	"36 years"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	691	263738	262.0
+	"36 years"	"36"	"Male"	"M"	"White"	"2106-3"	2557	1540246	166.0
+	"37 years"	"37"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	39	28618	136.3
+	"37 years"	"37"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	56	157024	35.7
+	"37 years"	"37"	"Female"	"F"	"Black or African American"	"2054-5"	435	283377	153.5
+	"37 years"	"37"	"Female"	"F"	"White"	"2106-3"	1477	1455823	101.5
+	"37 years"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	69	30211	228.4
+	"37 years"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	119	140719	84.6
+	"37 years"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	662	253136	261.5
+	"37 years"	"37"	"Male"	"M"	"White"	"2106-3"	2585	1493771	173.1
+	"38 years"	"38"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	39	29041	134.3
+	"38 years"	"38"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	55	161410	34.1
+	"38 years"	"38"	"Female"	"F"	"Black or African American"	"2054-5"	461	290276	158.8
+	"38 years"	"38"	"Female"	"F"	"White"	"2106-3"	1608	1502269	107.0
+	"38 years"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	69	30136	229.0
+	"38 years"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	105	146149	71.8
+	"38 years"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	689	259487	265.5
+	"38 years"	"38"	"Male"	"M"	"White"	"2106-3"	2713	1545533	175.5
+	"39 years"	"39"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	57	27895	204.3
+	"39 years"	"39"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	85	159056	53.4
+	"39 years"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	464	281510	164.8
+	"39 years"	"39"	"Female"	"F"	"White"	"2106-3"	1710	1461993	117.0
+	"39 years"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	53	29121	182.0
+	"39 years"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	122	142301	85.7
+	"39 years"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	765	248914	307.3
+	"39 years"	"39"	"Male"	"M"	"White"	"2106-3"	2844	1491635	190.7
+	"40 years"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	47	28231	166.5
+	"40 years"	"40"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	95	160930	59.0
+	"40 years"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	577	290172	198.8
+	"40 years"	"40"	"Female"	"F"	"White"	"2106-3"	1877	1488926	126.1
+	"40 years"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	76	28853	263.4
+	"40 years"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	140	142774	98.1
+	"40 years"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	850	256037	332.0
+	"40 years"	"40"	"Male"	"M"	"White"	"2106-3"	3080	1508844	204.1
+	"41 years"	"41"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	48	28293	169.7
+	"41 years"	"41"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	100	160938	62.1
+	"41 years"	"41"	"Female"	"F"	"Black or African American"	"2054-5"	610	299602	203.6
+	"41 years"	"41"	"Female"	"F"	"White"	"2106-3"	2132	1567558	136.0
+	"41 years"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	88	29339	299.9
+	"41 years"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	145	142422	101.8
+	"41 years"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	825	265478	310.8
+	"41 years"	"41"	"Male"	"M"	"White"	"2106-3"	3506	1591297	220.3
+	"42 years"	"42"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	52	29283	177.6
+	"42 years"	"42"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	91	157736	57.7
+	"42 years"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	697	313473	222.3
+	"42 years"	"42"	"Female"	"F"	"White"	"2106-3"	2497	1677223	148.9
+	"42 years"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	77	29831	258.1
+	"42 years"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	153	139798	109.4
+	"42 years"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	976	275968	353.7
+	"42 years"	"42"	"Male"	"M"	"White"	"2106-3"	4123	1700261	242.5
+	"43 years"	"43"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	80	29060	275.3
+	"43 years"	"43"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	120	158514	75.7
+	"43 years"	"43"	"Female"	"F"	"Black or African American"	"2054-5"	756	310435	243.5
+	"43 years"	"43"	"Female"	"F"	"White"	"2106-3"	2666	1699964	156.8
+	"43 years"	"43"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	96	29984	320.2
+	"43 years"	"43"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	147	140767	104.4
+	"43 years"	"43"	"Male"	"M"	"Black or African American"	"2054-5"	993	279161	355.7
+	"43 years"	"43"	"Male"	"M"	"White"	"2106-3"	4361	1733041	251.6
+	"44 years"	"44"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	56	27537	203.4
+	"44 years"	"44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	102	148870	68.5
+	"44 years"	"44"	"Female"	"F"	"Black or African American"	"2054-5"	726	288473	251.7
+	"44 years"	"44"	"Female"	"F"	"White"	"2106-3"	2895	1623710	178.3
+	"44 years"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	88	28388	310.0
+	"44 years"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	158	131914	119.8
+	"44 years"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	1047	258307	405.3
+	"44 years"	"44"	"Male"	"M"	"White"	"2106-3"	4599	1647528	279.1
+	"45 years"	"45"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	68	26915	252.6
+	"45 years"	"45"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	121	142312	85.0
+	"45 years"	"45"	"Female"	"F"	"Black or African American"	"2054-5"	837	290132	288.5
+	"45 years"	"45"	"Female"	"F"	"White"	"2106-3"	3100	1589092	195.1
+	"45 years"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	95	27533	345.0
+	"45 years"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	187	125494	149.0
+	"45 years"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	1127	259161	434.9
+	"45 years"	"45"	"Male"	"M"	"White"	"2106-3"	4811	1609769	298.9
+	"46 years"	"46"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	74	26827	275.8
+	"46 years"	"46"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	127	131486	96.6
+	"46 years"	"46"	"Female"	"F"	"Black or African American"	"2054-5"	943	290414	324.7
+	"46 years"	"46"	"Female"	"F"	"White"	"2106-3"	3342	1609623	207.6
+	"46 years"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	108	26819	402.7
+	"46 years"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	190	116978	162.4
+	"46 years"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	1256	256797	489.1
+	"46 years"	"46"	"Male"	"M"	"White"	"2106-3"	5546	1617959	342.8
+	"47 years"	"47"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	80	27227	293.8
+	"47 years"	"47"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	145	132733	109.2
+	"47 years"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	1039	300068	346.3
+	"47 years"	"47"	"Female"	"F"	"White"	"2106-3"	3887	1637157	237.4
+	"47 years"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	125	27352	457.0
+	"47 years"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	189	118667	159.3
+	"47 years"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	1458	267150	545.8
+	"47 years"	"47"	"Male"	"M"	"White"	"2106-3"	6188	1645919	376.0
+	"48 years"	"48"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	93	28574	325.5
+	"48 years"	"48"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	128	135076	94.8
+	"48 years"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	1137	314193	361.9
+	"48 years"	"48"	"Female"	"F"	"White"	"2106-3"	4398	1749328	251.4
+	"48 years"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	136	28534	476.6
+	"48 years"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	240	121279	197.9
+	"48 years"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	1536	280453	547.7
+	"48 years"	"48"	"Male"	"M"	"White"	"2106-3"	7140	1752363	407.4
+	"49 years"	"49"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	87	28578	304.4
+	"49 years"	"49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	180	137045	131.3
+	"49 years"	"49"	"Female"	"F"	"Black or African American"	"2054-5"	1361	312827	435.1
+	"49 years"	"49"	"Female"	"F"	"White"	"2106-3"	5155	1800581	286.3
+	"49 years"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	136	28313	480.3
+	"49 years"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	266	120861	220.1
+	"49 years"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	1765	277571	635.9
+	"49 years"	"49"	"Male"	"M"	"White"	"2106-3"	8032	1789146	448.9
+	"50 years"	"50"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	96	28172	340.8
+	"50 years"	"50"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	162	135419	119.6
+	"50 years"	"50"	"Female"	"F"	"Black or African American"	"2054-5"	1424	308720	461.3
+	"50 years"	"50"	"Female"	"F"	"White"	"2106-3"	5600	1811065	309.2
+	"50 years"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	166	27760	598.0
+	"50 years"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	259	120513	214.9
+	"50 years"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	1836	273365	671.6
+	"50 years"	"50"	"Male"	"M"	"White"	"2106-3"	9046	1789468	505.5
+	"51 years"	"51"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	95	27993	339.4
+	"51 years"	"51"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	191	124286	153.7
+	"51 years"	"51"	"Female"	"F"	"Black or African American"	"2054-5"	1562	305902	510.6
+	"51 years"	"51"	"Female"	"F"	"White"	"2106-3"	6233	1825230	341.5
+	"51 years"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	117	26999	433.3
+	"51 years"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	281	110746	253.7
+	"51 years"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	2028	269464	752.6
+	"51 years"	"51"	"Male"	"M"	"White"	"2106-3"	10027	1798616	557.5
+	"52 years"	"52"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	124	27875	444.8
+	"52 years"	"52"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	195	122752	158.9
+	"52 years"	"52"	"Female"	"F"	"Black or African American"	"2054-5"	1677	307325	545.7
+	"52 years"	"52"	"Female"	"F"	"White"	"2106-3"	6753	1860570	363.0
+	"52 years"	"52"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	145	26481	547.6
+	"52 years"	"52"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	282	107240	263.0
+	"52 years"	"52"	"Male"	"M"	"Black or African American"	"2054-5"	2183	269585	809.8
+	"52 years"	"52"	"Male"	"M"	"White"	"2106-3"	10862	1826079	594.8
+	"53 years"	"53"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	103	28010	367.7
+	"53 years"	"53"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	210	128516	163.4
+	"53 years"	"53"	"Female"	"F"	"Black or African American"	"2054-5"	1837	313640	585.7
+	"53 years"	"53"	"Female"	"F"	"White"	"2106-3"	7203	1865114	386.2
+	"53 years"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	164	26894	609.8
+	"53 years"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	323	112041	288.3
+	"53 years"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	2423	276826	875.3
+	"53 years"	"53"	"Male"	"M"	"White"	"2106-3"	11712	1838220	637.1
+	"54 years"	"54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	105	26334	398.7
+	"54 years"	"54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	217	119829	181.1
+	"54 years"	"54"	"Female"	"F"	"Black or African American"	"2054-5"	2013	300134	670.7
+	"54 years"	"54"	"Female"	"F"	"White"	"2106-3"	7625	1821374	418.6
+	"54 years"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	183	24845	736.6
+	"54 years"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	334	103700	322.1
+	"54 years"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	2669	262630	1016.3
+	"54 years"	"54"	"Male"	"M"	"White"	"2106-3"	12426	1779494	698.3
+	"55 years"	"55"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	119	25620	464.5
+	"55 years"	"55"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	246	119694	205.5
+	"55 years"	"55"	"Female"	"F"	"Black or African American"	"2054-5"	2010	290828	691.1
+	"55 years"	"55"	"Female"	"F"	"White"	"2106-3"	8319	1824053	456.1
+	"55 years"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	167	23970	696.7
+	"55 years"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	353	103424	341.3
+	"55 years"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	2925	254815	1147.9
+	"55 years"	"55"	"Male"	"M"	"White"	"2106-3"	13434	1772758	757.8
+	"56 years"	"56"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	120	24908	481.8
+	"56 years"	"56"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	221	116310	190.0
+	"56 years"	"56"	"Female"	"F"	"Black or African American"	"2054-5"	2171	289566	749.7
+	"56 years"	"56"	"Female"	"F"	"White"	"2106-3"	8885	1812933	490.1
+	"56 years"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	159	23613	673.4
+	"56 years"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	391	99487	393.0
+	"56 years"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	3101	249602	1242.4
+	"56 years"	"56"	"Male"	"M"	"White"	"2106-3"	14423	1753124	822.7
+	"57 years"	"57"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	138	24020	574.5
+	"57 years"	"57"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	250	115742	216.0
+	"57 years"	"57"	"Female"	"F"	"Black or African American"	"2054-5"	2236	277877	804.7
+	"57 years"	"57"	"Female"	"F"	"White"	"2106-3"	9283	1753543	529.4
+	"57 years"	"57"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	188	22175	847.8
+	"57 years"	"57"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	376	97610	385.2
+	"57 years"	"57"	"Male"	"M"	"Black or African American"	"2054-5"	3251	237674	1367.8
+	"57 years"	"57"	"Male"	"M"	"White"	"2106-3"	14841	1686936	879.8
+	"58 years"	"58"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	136	22849	595.2
+	"58 years"	"58"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	304	115684	262.8
+	"58 years"	"58"	"Female"	"F"	"Black or African American"	"2054-5"	2440	270420	902.3
+	"58 years"	"58"	"Female"	"F"	"White"	"2106-3"	9443	1747695	540.3
+	"58 years"	"58"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	182	21447	848.6
+	"58 years"	"58"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	439	96058	457.0
+	"58 years"	"58"	"Male"	"M"	"Black or African American"	"2054-5"	3270	230881	1416.3
+	"58 years"	"58"	"Male"	"M"	"White"	"2106-3"	16021	1676374	955.7
+	"59 years"	"59"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	130	21385	607.9
+	"59 years"	"59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	284	108246	262.4
+	"59 years"	"59"	"Female"	"F"	"Black or African American"	"2054-5"	2368	255492	926.8
+	"59 years"	"59"	"Female"	"F"	"White"	"2106-3"	9882	1695183	582.9
+	"59 years"	"59"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	197	19705	999.7
+	"59 years"	"59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	452	89497	505.0
+	"59 years"	"59"	"Male"	"M"	"Black or African American"	"2054-5"	3441	213393	1612.5
+	"59 years"	"59"	"Male"	"M"	"White"	"2106-3"	16385	1609839	1017.8
+	"60 years"	"60"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	137	19996	685.1
+	"60 years"	"60"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	296	103666	285.5
+	"60 years"	"60"	"Female"	"F"	"Black or African American"	"2054-5"	2419	239668	1009.3
+	"60 years"	"60"	"Female"	"F"	"White"	"2106-3"	10448	1643415	635.7
+	"60 years"	"60"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	171	18450	926.8
+	"60 years"	"60"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	452	85613	528.0
+	"60 years"	"60"	"Male"	"M"	"Black or African American"	"2054-5"	3486	198237	1758.5
+	"60 years"	"60"	"Male"	"M"	"White"	"2106-3"	17039	1553751	1096.6
+	"61 years"	"61"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	113	18733	603.2
+	"61 years"	"61"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	343	98700	347.5
+	"61 years"	"61"	"Female"	"F"	"Black or African American"	"2054-5"	2532	227931	1110.9
+	"61 years"	"61"	"Female"	"F"	"White"	"2106-3"	10769	1587113	678.5
+	"61 years"	"61"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	173	16878	1025.0
+	"61 years"	"61"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	471	80567	584.6
+	"61 years"	"61"	"Male"	"M"	"Black or African American"	"2054-5"	3487	186131	1873.4
+	"61 years"	"61"	"Male"	"M"	"White"	"2106-3"	17653	1499940	1176.9
+	"62 years"	"62"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	135	18000	750.0
+	"62 years"	"62"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	365	95527	382.1
+	"62 years"	"62"	"Female"	"F"	"Black or African American"	"2054-5"	2592	225676	1148.5
+	"62 years"	"62"	"Female"	"F"	"White"	"2106-3"	11180	1541861	725.1
+	"62 years"	"62"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	207	16390	1263.0
+	"62 years"	"62"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	505	76629	659.0
+	"62 years"	"62"	"Male"	"M"	"Black or African American"	"2054-5"	3641	182397	1996.2
+	"62 years"	"62"	"Male"	"M"	"White"	"2106-3"	18079	1447040	1249.4
+	"63 years"	"63"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	137	17254	794.0
+	"63 years"	"63"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	362	99217	364.9
+	"63 years"	"63"	"Female"	"F"	"Black or African American"	"2054-5"	2602	218254	1192.2
+	"63 years"	"63"	"Female"	"F"	"White"	"2106-3"	12008	1502628	799.1
+	"63 years"	"63"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	182	15996	1137.8
+	"63 years"	"63"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	563	80630	698.3
+	"63 years"	"63"	"Male"	"M"	"Black or African American"	"2054-5"	3720	176762	2104.5
+	"63 years"	"63"	"Male"	"M"	"White"	"2106-3"	18593	1408490	1320.1
+	"64 years"	"64"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	123	16128	762.6
+	"64 years"	"64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	385	91262	421.9
+	"64 years"	"64"	"Female"	"F"	"Black or African American"	"2054-5"	2673	202949	1317.1
+	"64 years"	"64"	"Female"	"F"	"White"	"2106-3"	13198	1479650	892.0
+	"64 years"	"64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	189	14924	1266.4
+	"64 years"	"64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	572	74214	770.7
+	"64 years"	"64"	"Male"	"M"	"Black or African American"	"2054-5"	3744	162591	2302.7
+	"64 years"	"64"	"Male"	"M"	"White"	"2106-3"	19402	1378743	1407.2
+	"65 years"	"65"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	134	15352	872.9
+	"65 years"	"65"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	420	86125	487.7
+	"65 years"	"65"	"Female"	"F"	"Black or African American"	"2054-5"	2657	192361	1381.3
+	"65 years"	"65"	"Female"	"F"	"White"	"2106-3"	14587	1481224	984.8
+	"65 years"	"65"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	181	14054	1287.9
+	"65 years"	"65"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	546	70353	776.1
+	"65 years"	"65"	"Male"	"M"	"Black or African American"	"2054-5"	3559	153099	2324.6
+	"65 years"	"65"	"Male"	"M"	"White"	"2106-3"	20750	1378499	1505.3
+	"66 years"	"66"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	172	15060	1142.1
+	"66 years"	"66"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	404	80666	500.8
+	"66 years"	"66"	"Female"	"F"	"Black or African American"	"2054-5"	2575	181960	1415.1
+	"66 years"	"66"	"Female"	"F"	"White"	"2106-3"	16101	1573520	1023.2
+	"66 years"	"66"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	204	14125	1444.2
+	"66 years"	"66"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	583	65302	892.8
+	"66 years"	"66"	"Male"	"M"	"Black or African American"	"2054-5"	3529	143795	2454.2
+	"66 years"	"66"	"Male"	"M"	"White"	"2106-3"	23150	1460012	1585.6
+	"67 years"	"67"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	115	11880	968.0
+	"67 years"	"67"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	400	68318	585.5
+	"67 years"	"67"	"Female"	"F"	"Black or African American"	"2054-5"	2381	146559	1624.6
+	"67 years"	"67"	"Female"	"F"	"White"	"2106-3"	13526	1146514	1179.8
+	"67 years"	"67"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	175	10622	1647.5
+	"67 years"	"67"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	488	56300	866.8
+	"67 years"	"67"	"Male"	"M"	"Black or African American"	"2054-5"	3043	113335	2685.0
+	"67 years"	"67"	"Male"	"M"	"White"	"2106-3"	19131	1051082	1820.1
+	"68 years"	"68"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	135	11452	1178.8
+	"68 years"	"68"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	385	66305	580.7
+	"68 years"	"68"	"Female"	"F"	"Black or African American"	"2054-5"	2493	145535	1713.0
+	"68 years"	"68"	"Female"	"F"	"White"	"2106-3"	14373	1137967	1263.0
+	"68 years"	"68"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	161	10165	1583.9
+	"68 years"	"68"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	556	54059	1028.5
+	"68 years"	"68"	"Male"	"M"	"Black or African American"	"2054-5"	3050	110968	2748.5
+	"68 years"	"68"	"Male"	"M"	"White"	"2106-3"	19846	1033460	1920.3
+	"69 years"	"69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	150	10726	1398.5
+	"69 years"	"69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	423	61079	692.5
+	"69 years"	"69"	"Female"	"F"	"Black or African American"	"2054-5"	2604	135930	1915.7
+	"69 years"	"69"	"Female"	"F"	"White"	"2106-3"	16150	1126994	1433.0
+	"69 years"	"69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	172	9430	1824.0
+	"69 years"	"69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	532	50103	1061.8
+	"69 years"	"69"	"Male"	"M"	"Black or African American"	"2054-5"	3097	102869	3010.6
+	"69 years"	"69"	"Male"	"M"	"White"	"2106-3"	21571	1011558	2132.5
+	"70 years"	"70"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	147	10219	1438.5
+	"70 years"	"70"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	433	56228	770.1
+	"70 years"	"70"	"Female"	"F"	"Black or African American"	"2054-5"	2657	134215	1979.7
+	"70 years"	"70"	"Female"	"F"	"White"	"2106-3"	17886	1170553	1528.0
+	"70 years"	"70"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	202	8890	2272.2
+	"70 years"	"70"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	592	46796	1265.1
+	"70 years"	"70"	"Male"	"M"	"Black or African American"	"2054-5"	3229	99012	3261.2
+	"70 years"	"70"	"Male"	"M"	"White"	"2106-3"	23573	1043589	2258.8
+	"71 years"	"71"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	141	9045	1558.9
+	"71 years"	"71"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	413	54320	760.3
+	"71 years"	"71"	"Female"	"F"	"Black or African American"	"2054-5"	2747	120083	2287.6
+	"71 years"	"71"	"Female"	"F"	"White"	"2106-3"	17306	1018683	1698.9
+	"71 years"	"71"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	162	7962	2034.7
+	"71 years"	"71"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	575	44126	1303.1
+	"71 years"	"71"	"Male"	"M"	"Black or African American"	"2054-5"	3192	88116	3622.5
+	"71 years"	"71"	"Male"	"M"	"White"	"2106-3"	22630	896164	2525.2
+	"72 years"	"72"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	135	8392	1608.7
+	"72 years"	"72"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	455	50020	909.6
+	"72 years"	"72"	"Female"	"F"	"Black or African American"	"2054-5"	2682	113471	2363.6
+	"72 years"	"72"	"Female"	"F"	"White"	"2106-3"	17446	935401	1865.1
+	"72 years"	"72"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	168	7248	2317.9
+	"72 years"	"72"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	574	41034	1398.8
+	"72 years"	"72"	"Male"	"M"	"Black or African American"	"2054-5"	3043	80452	3782.4
+	"72 years"	"72"	"Male"	"M"	"White"	"2106-3"	22186	808828	2743.0
+	"73 years"	"73"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	134	7972	1680.9
+	"73 years"	"73"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	499	48431	1030.3
+	"73 years"	"73"	"Female"	"F"	"Black or African American"	"2054-5"	2694	109430	2461.8
+	"73 years"	"73"	"Female"	"F"	"White"	"2106-3"	17995	886011	2031.0
+	"73 years"	"73"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	169	6838	2471.5
+	"73 years"	"73"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	605	40054	1510.5
+	"73 years"	"73"	"Male"	"M"	"Black or African American"	"2054-5"	3059	77218	3961.5
+	"73 years"	"73"	"Male"	"M"	"White"	"2106-3"	22470	758616	2962.0
+	"74 years"	"74"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	147	7150	2055.9
+	"74 years"	"74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	497	43468	1143.4
+	"74 years"	"74"	"Female"	"F"	"Black or African American"	"2054-5"	2820	98486	2863.4
+	"74 years"	"74"	"Female"	"F"	"White"	"2106-3"	19112	842019	2269.8
+	"74 years"	"74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	164	5903	2778.2
+	"74 years"	"74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	629	36117	1741.6
+	"74 years"	"74"	"Male"	"M"	"Black or African American"	"2054-5"	3019	69528	4342.1
+	"74 years"	"74"	"Male"	"M"	"White"	"2106-3"	23333	717961	3249.9
+	"75 years"	"75"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	163	6834	2385.1
+	"75 years"	"75"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	576	41506	1387.8
+	"75 years"	"75"	"Female"	"F"	"Black or African American"	"2054-5"	2822	94886	2974.1
+	"75 years"	"75"	"Female"	"F"	"White"	"2106-3"	20004	814626	2455.6
+	"75 years"	"75"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	179	5496	3256.9
+	"75 years"	"75"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	697	33850	2059.1
+	"75 years"	"75"	"Male"	"M"	"Black or African American"	"2054-5"	2901	64525	4495.9
+	"75 years"	"75"	"Male"	"M"	"White"	"2106-3"	24168	681692	3545.3
+	"76 years"	"76"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	130	6115	2125.9
+	"76 years"	"76"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	603	38761	1555.7
+	"76 years"	"76"	"Female"	"F"	"Black or African American"	"2054-5"	2807	88117	3185.5
+	"76 years"	"76"	"Female"	"F"	"White"	"2106-3"	21101	757205	2786.7
+	"76 years"	"76"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	160	4878	3280.0
+	"76 years"	"76"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	657	30979	2120.8
+	"76 years"	"76"	"Male"	"M"	"Black or African American"	"2054-5"	3081	58675	5251.0
+	"76 years"	"76"	"Male"	"M"	"White"	"2106-3"	24258	622599	3896.2
+	"77 years"	"77"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	164	5808	2823.7
+	"77 years"	"77"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	648	36512	1774.8
+	"77 years"	"77"	"Female"	"F"	"Black or African American"	"2054-5"	3018	85634	3524.3
+	"77 years"	"77"	"Female"	"F"	"White"	"2106-3"	22440	729135	3077.6
+	"77 years"	"77"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	149	4469	3334.1
+	"77 years"	"77"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	689	28392	2426.7
+	"77 years"	"77"	"Male"	"M"	"Black or African American"	"2054-5"	2991	55456	5393.5
+	"77 years"	"77"	"Male"	"M"	"White"	"2106-3"	25758	589372	4370.4
+	"78 years"	"78"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	180	5471	3290.1
+	"78 years"	"78"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	657	34422	1908.7
+	"78 years"	"78"	"Female"	"F"	"Black or African American"	"2054-5"	3118	81201	3839.9
+	"78 years"	"78"	"Female"	"F"	"White"	"2106-3"	24071	709546	3392.5
+	"78 years"	"78"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	156	4108	3797.5
+	"78 years"	"78"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	741	25983	2851.9
+	"78 years"	"78"	"Male"	"M"	"Black or African American"	"2054-5"	2986	51052	5848.9
+	"78 years"	"78"	"Male"	"M"	"White"	"2106-3"	26644	559379	4763.1
+	"79 years"	"79"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	152	4671	3254.1
+	"79 years"	"79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	685	31111	2201.8
+	"79 years"	"79"	"Female"	"F"	"Black or African American"	"2054-5"	3180	73259	4340.8
+	"79 years"	"79"	"Female"	"F"	"White"	"2106-3"	24629	642714	3832.0
+	"79 years"	"79"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	139	3456	4022.0
+	"79 years"	"79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	736	23094	3187.0
+	"79 years"	"79"	"Male"	"M"	"Black or African American"	"2054-5"	2885	44726	6450.4
+	"79 years"	"79"	"Male"	"M"	"White"	"2106-3"	26191	498166	5257.5
+	"80 years"	"80"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	151	4452	3391.7
+	"80 years"	"80"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	752	30311	2480.9
+	"80 years"	"80"	"Female"	"F"	"Black or African American"	"2054-5"	3380	69514	4862.3
+	"80 years"	"80"	"Female"	"F"	"White"	"2106-3"	26808	630903	4249.1
+	"80 years"	"80"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	134	3191	4199.3
+	"80 years"	"80"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	722	21243	3398.8
+	"80 years"	"80"	"Male"	"M"	"Black or African American"	"2054-5"	2877	41150	6991.5
+	"80 years"	"80"	"Male"	"M"	"White"	"2106-3"	27903	476613	5854.4
+	"81 years"	"81"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	142	4100	3463.4
+	"81 years"	"81"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	760	27448	2768.9
+	"81 years"	"81"	"Female"	"F"	"Black or African American"	"2054-5"	3400	63725	5335.4
+	"81 years"	"81"	"Female"	"F"	"White"	"2106-3"	28961	614189	4715.3
+	"81 years"	"81"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	145	2756	5261.2
+	"81 years"	"81"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	799	19063	4191.4
+	"81 years"	"81"	"Male"	"M"	"Black or African American"	"2054-5"	2595	36225	7163.6
+	"81 years"	"81"	"Male"	"M"	"White"	"2106-3"	29486	451654	6528.4
+	"82 years"	"82"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	173	3704	4670.6
+	"82 years"	"82"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	818	25862	3162.9
+	"82 years"	"82"	"Female"	"F"	"Black or African American"	"2054-5"	3253	58556	5555.4
+	"82 years"	"82"	"Female"	"F"	"White"	"2106-3"	31553	595570	5297.9
+	"82 years"	"82"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	138	2414	5716.7
+	"82 years"	"82"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	798	17245	4627.4
+	"82 years"	"82"	"Male"	"M"	"Black or African American"	"2054-5"	2620	31992	8189.5
+	"82 years"	"82"	"Male"	"M"	"White"	"2106-3"	31105	424978	7319.2
+	"83 years"	"83"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	174	3541	4913.9
+	"83 years"	"83"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	933	25111	3715.5
+	"83 years"	"83"	"Female"	"F"	"Black or African American"	"2054-5"	3576	56907	6283.9
+	"83 years"	"83"	"Female"	"F"	"White"	"2106-3"	33817	578455	5846.1
+	"83 years"	"83"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	159	2369	6711.7
+	"83 years"	"83"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	825	16291	5064.1
+	"83 years"	"83"	"Male"	"M"	"Black or African American"	"2054-5"	2542	30132	8436.2
+	"83 years"	"83"	"Male"	"M"	"White"	"2106-3"	31258	398314	7847.6
+	"84 years"	"84"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	103	2854	3609.0
+	"84 years"	"84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	910	21826	4169.3
+	"84 years"	"84"	"Female"	"F"	"Black or African American"	"2054-5"	3367	50726	6637.6
+	"84 years"	"84"	"Female"	"F"	"White"	"2106-3"	35494	530714	6688.0
+	"84 years"	"84"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	123	1944	6327.2
+	"84 years"	"84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	785	13773	5699.6
+	"84 years"	"84"	"Male"	"M"	"Black or African American"	"2054-5"	2474	25398	9740.9
+	"84 years"	"84"	"Male"	"M"	"White"	"2106-3"	31686	353425	8965.4
+	"85 years"	"85"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	130	Not Applicable	Not Applicable
+	"85 years"	"85"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	957	Not Applicable	Not Applicable
+	"85 years"	"85"	"Female"	"F"	"Black or African American"	"2054-5"	3648	Not Applicable	Not Applicable
+	"85 years"	"85"	"Female"	"F"	"White"	"2106-3"	38214	Not Applicable	Not Applicable
+	"85 years"	"85"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	139	Not Applicable	Not Applicable
+	"85 years"	"85"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	818	Not Applicable	Not Applicable
+	"85 years"	"85"	"Male"	"M"	"Black or African American"	"2054-5"	2310	Not Applicable	Not Applicable
+	"85 years"	"85"	"Male"	"M"	"White"	"2106-3"	31774	Not Applicable	Not Applicable
+	"86 years"	"86"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	155	Not Applicable	Not Applicable
+	"86 years"	"86"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	978	Not Applicable	Not Applicable
+	"86 years"	"86"	"Female"	"F"	"Black or African American"	"2054-5"	3546	Not Applicable	Not Applicable
+	"86 years"	"86"	"Female"	"F"	"White"	"2106-3"	39014	Not Applicable	Not Applicable
+	"86 years"	"86"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	105	Not Applicable	Not Applicable
+	"86 years"	"86"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	777	Not Applicable	Not Applicable
+	"86 years"	"86"	"Male"	"M"	"Black or African American"	"2054-5"	2226	Not Applicable	Not Applicable
+	"86 years"	"86"	"Male"	"M"	"White"	"2106-3"	31686	Not Applicable	Not Applicable
+	"87 years"	"87"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	131	Not Applicable	Not Applicable
+	"87 years"	"87"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	937	Not Applicable	Not Applicable
+	"87 years"	"87"	"Female"	"F"	"Black or African American"	"2054-5"	3472	Not Applicable	Not Applicable
+	"87 years"	"87"	"Female"	"F"	"White"	"2106-3"	40697	Not Applicable	Not Applicable
+	"87 years"	"87"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	89	Not Applicable	Not Applicable
+	"87 years"	"87"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	732	Not Applicable	Not Applicable
+	"87 years"	"87"	"Male"	"M"	"Black or African American"	"2054-5"	2029	Not Applicable	Not Applicable
+	"87 years"	"87"	"Male"	"M"	"White"	"2106-3"	30637	Not Applicable	Not Applicable
+	"88 years"	"88"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	145	Not Applicable	Not Applicable
+	"88 years"	"88"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	946	Not Applicable	Not Applicable
+	"88 years"	"88"	"Female"	"F"	"Black or African American"	"2054-5"	3398	Not Applicable	Not Applicable
+	"88 years"	"88"	"Female"	"F"	"White"	"2106-3"	41828	Not Applicable	Not Applicable
+	"88 years"	"88"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	89	Not Applicable	Not Applicable
+	"88 years"	"88"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	756	Not Applicable	Not Applicable
+	"88 years"	"88"	"Male"	"M"	"Black or African American"	"2054-5"	1848	Not Applicable	Not Applicable
+	"88 years"	"88"	"Male"	"M"	"White"	"2106-3"	29234	Not Applicable	Not Applicable
+	"89 years"	"89"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	118	Not Applicable	Not Applicable
+	"89 years"	"89"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	864	Not Applicable	Not Applicable
+	"89 years"	"89"	"Female"	"F"	"Black or African American"	"2054-5"	3207	Not Applicable	Not Applicable
+	"89 years"	"89"	"Female"	"F"	"White"	"2106-3"	41587	Not Applicable	Not Applicable
+	"89 years"	"89"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	97	Not Applicable	Not Applicable
+	"89 years"	"89"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	694	Not Applicable	Not Applicable
+	"89 years"	"89"	"Male"	"M"	"Black or African American"	"2054-5"	1751	Not Applicable	Not Applicable
+	"89 years"	"89"	"Male"	"M"	"White"	"2106-3"	27495	Not Applicable	Not Applicable
+	"90 years"	"90"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	115	Not Applicable	Not Applicable
+	"90 years"	"90"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	866	Not Applicable	Not Applicable
+	"90 years"	"90"	"Female"	"F"	"Black or African American"	"2054-5"	2956	Not Applicable	Not Applicable
+	"90 years"	"90"	"Female"	"F"	"White"	"2106-3"	40102	Not Applicable	Not Applicable
+	"90 years"	"90"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	83	Not Applicable	Not Applicable
+	"90 years"	"90"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	683	Not Applicable	Not Applicable
+	"90 years"	"90"	"Male"	"M"	"Black or African American"	"2054-5"	1531	Not Applicable	Not Applicable
+	"90 years"	"90"	"Male"	"M"	"White"	"2106-3"	25043	Not Applicable	Not Applicable
+	"91 years"	"91"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	119	Not Applicable	Not Applicable
+	"91 years"	"91"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	802	Not Applicable	Not Applicable
+	"91 years"	"91"	"Female"	"F"	"Black or African American"	"2054-5"	2768	Not Applicable	Not Applicable
+	"91 years"	"91"	"Female"	"F"	"White"	"2106-3"	38945	Not Applicable	Not Applicable
+	"91 years"	"91"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	71	Not Applicable	Not Applicable
+	"91 years"	"91"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	601	Not Applicable	Not Applicable
+	"91 years"	"91"	"Male"	"M"	"Black or African American"	"2054-5"	1291	Not Applicable	Not Applicable
+	"91 years"	"91"	"Male"	"M"	"White"	"2106-3"	22505	Not Applicable	Not Applicable
+	"92 years"	"92"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	94	Not Applicable	Not Applicable
+	"92 years"	"92"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	746	Not Applicable	Not Applicable
+	"92 years"	"92"	"Female"	"F"	"Black or African American"	"2054-5"	2564	Not Applicable	Not Applicable
+	"92 years"	"92"	"Female"	"F"	"White"	"2106-3"	35984	Not Applicable	Not Applicable
+	"92 years"	"92"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	48	Not Applicable	Not Applicable
+	"92 years"	"92"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	522	Not Applicable	Not Applicable
+	"92 years"	"92"	"Male"	"M"	"Black or African American"	"2054-5"	1103	Not Applicable	Not Applicable
+	"92 years"	"92"	"Male"	"M"	"White"	"2106-3"	19857	Not Applicable	Not Applicable
+	"93 years"	"93"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	91	Not Applicable	Not Applicable
+	"93 years"	"93"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	665	Not Applicable	Not Applicable
+	"93 years"	"93"	"Female"	"F"	"Black or African American"	"2054-5"	2337	Not Applicable	Not Applicable
+	"93 years"	"93"	"Female"	"F"	"White"	"2106-3"	31742	Not Applicable	Not Applicable
+	"93 years"	"93"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	34	Not Applicable	Not Applicable
+	"93 years"	"93"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	443	Not Applicable	Not Applicable
+	"93 years"	"93"	"Male"	"M"	"Black or African American"	"2054-5"	938	Not Applicable	Not Applicable
+	"93 years"	"93"	"Male"	"M"	"White"	"2106-3"	16110	Not Applicable	Not Applicable
+	"94 years"	"94"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	61	Not Applicable	Not Applicable
+	"94 years"	"94"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	590	Not Applicable	Not Applicable
+	"94 years"	"94"	"Female"	"F"	"Black or African American"	"2054-5"	1998	Not Applicable	Not Applicable
+	"94 years"	"94"	"Female"	"F"	"White"	"2106-3"	26592	Not Applicable	Not Applicable
+	"94 years"	"94"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	25	Not Applicable	Not Applicable
+	"94 years"	"94"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	350	Not Applicable	Not Applicable
+	"94 years"	"94"	"Male"	"M"	"Black or African American"	"2054-5"	734	Not Applicable	Not Applicable
+	"94 years"	"94"	"Male"	"M"	"White"	"2106-3"	12078	Not Applicable	Not Applicable
+	"95 years"	"95"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	51	Not Applicable	Not Applicable
+	"95 years"	"95"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	496	Not Applicable	Not Applicable
+	"95 years"	"95"	"Female"	"F"	"Black or African American"	"2054-5"	1642	Not Applicable	Not Applicable
+	"95 years"	"95"	"Female"	"F"	"White"	"2106-3"	23138	Not Applicable	Not Applicable
+	"95 years"	"95"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	19	Not Applicable	Not Applicable
+	"95 years"	"95"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	279	Not Applicable	Not Applicable
+	"95 years"	"95"	"Male"	"M"	"Black or African American"	"2054-5"	539	Not Applicable	Not Applicable
+	"95 years"	"95"	"Male"	"M"	"White"	"2106-3"	9889	Not Applicable	Not Applicable
+	"96 years"	"96"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	38	Not Applicable	Not Applicable
+	"96 years"	"96"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	426	Not Applicable	Not Applicable
+	"96 years"	"96"	"Female"	"F"	"Black or African American"	"2054-5"	1426	Not Applicable	Not Applicable
+	"96 years"	"96"	"Female"	"F"	"White"	"2106-3"	18806	Not Applicable	Not Applicable
+	"96 years"	"96"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	16	Not Applicable	Not Applicable
+	"96 years"	"96"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	216	Not Applicable	Not Applicable
+	"96 years"	"96"	"Male"	"M"	"Black or African American"	"2054-5"	412	Not Applicable	Not Applicable
+	"96 years"	"96"	"Male"	"M"	"White"	"2106-3"	7139	Not Applicable	Not Applicable
+	"97 years"	"97"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	38	Not Applicable	Not Applicable
+	"97 years"	"97"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	309	Not Applicable	Not Applicable
+	"97 years"	"97"	"Female"	"F"	"Black or African American"	"2054-5"	1084	Not Applicable	Not Applicable
+	"97 years"	"97"	"Female"	"F"	"White"	"2106-3"	15278	Not Applicable	Not Applicable
+	"97 years"	"97"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	15	Not Applicable	Not Applicable
+	"97 years"	"97"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	167	Not Applicable	Not Applicable
+	"97 years"	"97"	"Male"	"M"	"Black or African American"	"2054-5"	267	Not Applicable	Not Applicable
+	"97 years"	"97"	"Male"	"M"	"White"	"2106-3"	5213	Not Applicable	Not Applicable
+	"98 years"	"98"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	28	Not Applicable	Not Applicable
+	"98 years"	"98"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	289	Not Applicable	Not Applicable
+	"98 years"	"98"	"Female"	"F"	"Black or African American"	"2054-5"	966	Not Applicable	Not Applicable
+	"98 years"	"98"	"Female"	"F"	"White"	"2106-3"	12213	Not Applicable	Not Applicable
+	"98 years"	"98"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	9	Not Applicable	Not Applicable
+	"98 years"	"98"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	103	Not Applicable	Not Applicable
+	"98 years"	"98"	"Male"	"M"	"Black or African American"	"2054-5"	213	Not Applicable	Not Applicable
+	"98 years"	"98"	"Male"	"M"	"White"	"2106-3"	3618	Not Applicable	Not Applicable
+	"99 years"	"99"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	31	Not Applicable	Not Applicable
+	"99 years"	"99"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	179	Not Applicable	Not Applicable
+	"99 years"	"99"	"Female"	"F"	"Black or African American"	"2054-5"	743	Not Applicable	Not Applicable
+	"99 years"	"99"	"Female"	"F"	"White"	"2106-3"	8804	Not Applicable	Not Applicable
+	"99 years"	"99"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	2	Not Applicable	Not Applicable
+	"99 years"	"99"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	82	Not Applicable	Not Applicable
+	"99 years"	"99"	"Male"	"M"	"Black or African American"	"2054-5"	148	Not Applicable	Not Applicable
+	"99 years"	"99"	"Male"	"M"	"White"	"2106-3"	2433	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	58	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	401	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Female"	"F"	"Black or African American"	"2054-5"	2175	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Female"	"F"	"White"	"2106-3"	18008	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	15	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	162	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Male"	"M"	"Black or African American"	"2054-5"	324	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Male"	"M"	"White"	"2106-3"	3846	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Female"	"F"	"Black or African American"	"2054-5"	9	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Female"	"F"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	3	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Male"	"M"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Male"	"M"	"White"	"2106-3"	75	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2013"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Place of Death: All"
+"Race: All"
+"Single-Year Ages: All"
+"States: All"
+"Weekday: All"
+"Year/Month: 2013"
+"Group By: Single-Year Ages, Gender, Race"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jul 11, 2015 12:44:24 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2013 on CDC WONDER Online Database, released 2015. Data are from the Multiple Cause of Death Files, 1999-2013, as compiled"
+"from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/ucd-icd10.html on Jul 11, 2015 12:44:24 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"5. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013"
+"postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for"
+"year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS"
+"on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are"
+"bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released"
+"by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the"
+"1990-1999 intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
