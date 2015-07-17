@@ -33,7 +33,7 @@ Mortality rates are based on data from the
 
 The graph below shows the overall yearly mortality rate by age across all population groups.
 
-<img src="assets/fig/unnamed-chunk-1-1.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" style="display: block; margin: auto;" />
+<img src="assets/fig/mortality-rate-plot-1.png" title="plot of chunk mortality-rate-plot" alt="plot of chunk mortality-rate-plot" style="display: block; margin: auto;" />
 
 ---
 

@@ -33,7 +33,7 @@ Mortality rates are based on data from the
 
 The graph below shows the overall yearly mortality rate by age across all population groups.
 
-```{r echo = FALSE, fig.height=6, fig.width=12, fig.align='center'}
+```{r 'mortality-rate-plot', echo = FALSE, fig.height=6, fig.width=12, fig.align='center'}
 load('../mortality.data')
 m <- mortality
 m <- split(m[, c('Deaths', 'Population')], m$Age)
