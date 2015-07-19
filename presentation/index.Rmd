@@ -1,7 +1,7 @@
 ---
 title       : US Mortality Rate Predictor
 subtitle    : Based on CDC 2013 Mortality Rates
-author      : ibinado
+author      : ibinado / July 2015
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -15,13 +15,13 @@ knit        : slidify::knit2slides
 
 * What is it?
   * A predictor of mortality rate of US population based on demographics and age.
-* Why should I care?
-  * You can check the probability that someone in your population
+* What's the point?
+  * You can check the probability that someone in a given population
     subgroup will die within the selected time period.
-  * Some of the questions you might help answer are:
+  * Some of the questions it might help answer are:
       * How much money should you put in your nest egg?
-      * Is that life insurance a good deal for you?
-      * Should you retire now with a smaller pension, or wait to be
+      * Is that life insurance a good deal?
+      * Is it worth retiring early with a smaller pension, or wait to be
         fully vested?
 
 --- 
