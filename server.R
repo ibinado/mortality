@@ -1,11 +1,11 @@
 library(shiny)
 
-# Read and prepare mortality rate input data.
+# Read mortality rate input data.
 load('mortality.data')
 
 # Compute predicted mortality rate based on demographics.
 computeMortality <- function(start.age, gender, race, outlook) {
-m <- mortality
+  m <- mortality
   # Subset data by gender, if requested.
   if (gender != '') {
     m <- m[m$Gender == gender,]
@@ -20,6 +20,7 @@ m <- mortality
   survivalRate.PerYear <- sapply(m, function(x) {
     1 - (x['Deaths'] / x['Population'])
   })
+  # Compute cumulative survival rate over prediction period.
   survivalRate <- 1.0
   end.age <- start.age + outlook - 1
   for (age in start.age:end.age) {

@@ -1,4 +1,7 @@
 library(shiny)
+
+# A modal dialog overlaying the whole page with a brief explanation of what
+# the application is about.
 infoDialog <- function() {
   HTML('
     <script>
@@ -37,6 +40,7 @@ infoDialog <- function() {
   ')
 }
 
+# A button to show the infoDialog.
 infoButton <- function() {
   HTML('
     <button type="button" class="btn btn-primary btn-lg" data-toggle="modal"
@@ -95,7 +99,7 @@ shinyUI(fluidPage(
             'CDC WONDER Online Database'),
         '2013 mortality rates.')
       ),
-      div(),
+      div(),  # Clears the mainPanel float above to move infoButton below.
       infoButton()
     )
   )
