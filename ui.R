@@ -19,7 +19,7 @@ infoDialog <- function() {
                expected mortality rate over the selected time period.
             </p>
             <p>Mortality rates are based on information from the
-               <a href="http://wonder.cdc.gov/wonder/help/ucd.html">
+               <a href="http://wonder.cdc.gov/wonder/help/ucd.html" target="_blank">
                CDC WONDER Online Database</a> for the year 2013.
             </p>
             <p>Mortality predictions beyond 85 years of age assume the
@@ -95,7 +95,7 @@ shinyUI(fluidPage(
           'years of age.'),
         div(class = 'panel-footer',
         'Prediction based on',
-          a(href = 'http://wonder.cdc.gov/wonder/help/ucd.html',
+          a(href = 'http://wonder.cdc.gov/wonder/help/ucd.html', target = '_blank',
             'CDC WONDER Online Database'),
         '2013 mortality rates.')
       ),
